@@ -8,8 +8,6 @@ public enum BDEPermissionEnum {
     CREATE_EVENT("Create Event", false),
     MANAGING_EVENT("Manage Event", false),
     DELETE_EVENT("Delete Event", false),
-    EVENT_SELLER("Event Seller", true),
-    EVENT_COOKER("Event Cooker", true),
     VIEW_BENEFIT("View Event Benefit", false),
     EDIT_OTHER_PASSWORD("Edit Other Passowrd", false);
 
